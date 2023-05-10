@@ -27,5 +27,3 @@ Kapitel [I] :
 Kapitel [J] : 
 
 Kapitel [K] :
-
-Kapitel [L] : 
