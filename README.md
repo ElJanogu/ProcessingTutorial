@@ -2,59 +2,30 @@
  Processing Tutorial Quellcode
 
 
-Kapitel :
-
-[A] : Konsole, Kommentare, Datentypen, Variablen, Operatoren, Konvertierung
-
-[B] : 2D Formen, Koordinatensystem, Farben, Farbmanipulation
-
-[C] : Konstrollstrukturen, Nutzereingaben, Arrays, Listen, Maps
-
-[D] : Vektiren, Mathematik, Trigonometrie, Zufallszahlen, Kurvenpunkte, Kurventagenten
-
-[E] : Mauszeigern, Framrate & Framecount, Systemzeit
-
-[F] : Funktionen, Rekursion
-
-[G] : Dateien (Text, Bild, Audio, Schriftart, CSV, JSON, XML), Schriftarten, Tabellen, JSON & XML Objekte, Dialogfenster
-
-[H] : Leinwand einstellungen & Threads
-
-[I] : Klassen, Objekte und Vererbung
-
-[J] : Netzwerk
-
-
 Inhalte :
 
-[ ] - Download, Installation und Einrichtung
+Kapitel [A] :
 
-[A] - Hello World
+ -> Hello World
 
-[A] - Primitive Datentypen
+Kapitel [B] : 
 
-[A] - Wrapper Klassen
+Kapitel [C] : 
 
-[A] - Strings
+Kapitel [D] : 
 
-[A] - Datenkonvertierung
+Kapitel [E] : 
 
-[B] - Primitive 2D Formen
+Kapitel [F] : 
 
-[B] - Komplexe 2D Formen
+Kapitel [G] : 
 
-[B] - Koordinatensystem & Formenmanipulation
+Kapitel [H] : 
 
-[B] - Flächen und Ränder färben
+Kapitel [I] : 
 
-[B] - Farbmanipulation
- 
-[C] - Konstrollstrukturen
+Kapitel [J] : 
 
-[C] - Nutzereingaben
+Kapitel [K] :
 
-[C] - Arrays
-
-[C] - Listen
-
-[C] - Maps
+Kapitel [L] : 
