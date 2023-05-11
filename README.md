@@ -11,8 +11,11 @@ Kapitel [A] :
 Kapitel [B] : 
 
  -> Primitive Datentypen (+ Sichtbarkeiten)
+ 
  -> Wrapper Klassen
+
  -> Strings
+
  -> Datenkonvertierung
 
 Kapitel [C] : 
