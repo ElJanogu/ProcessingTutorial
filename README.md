@@ -40,9 +40,31 @@ Kapitel [E] :
 
 Kapitel [F] : 
 
+ -> Cursor
+
+ -> Frames
+
+ -> Zeit
+
+ -> Settings
+
 Kapitel [G] : 
 
+ -> Funktionen
+
+ -> Klassen Und Objeckte
+
+ -> Vererbung
+
 Kapitel [H] : 
+
+ -> Arrays
+
+ -> Listen
+
+ -> Maps
+
+ -> Vektoren
 
 Kapitel [I] : 
 
