@@ -68,6 +68,14 @@ Kapitel [H] :
 
 Kapitel [I] : 
 
+ -> Kalkulation
+
+ -> Trigonometrie
+
+ -> Zufallszahlen
+
+ -> Kurvenpunkte und -tangenten
+
 Kapitel [J] : 
 
 Kapitel [K] :
