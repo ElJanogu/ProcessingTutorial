@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Firma>
+  <Abteilung id="0" name="HR">
+    <Mitarbeiter id="4" lohn="13.25">John</Mitarbeiter>
+  </Abteilung>
+  <Abteilung id="1" name="Vertrieb">
+    <Mitarbeiter id="3" lohn="18.0">Max</Mitarbeiter>
+    <Mitarbeiter id="2" lohn="17.25">Paul</Mitarbeiter>
+    <Mitarbeiter id="0" lohn="17.25">Anna</Mitarbeiter>
+  </Abteilung>
+  <Abteilung id="2" name="Forschung">
+    <Mitarbeiter id="5" lohn="16.75">Sabrina</Mitarbeiter>
+    <Mitarbeiter id="1" lohn="16.0">Tom</Mitarbeiter>
+  </Abteilung>
+</Firma>

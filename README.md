@@ -78,4 +78,22 @@ Kapitel [I] :
 
 Kapitel [J] : 
 
+ -> Threads
+
 Kapitel [K] :
+
+ -> Textdateien
+
+ -> Bilddateien
+
+ -> Audiodateien
+
+ -> Typografie
+
+ -> CSV Dateien (Tabellen)
+
+ -> JSON Dateien (JSON Objekte & Arrays)
+
+ -> XML Dateien
+
+ -> Sonstiges
